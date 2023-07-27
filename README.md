@@ -1,1 +1,1 @@
-Project for Augusta University's Spring 2023 Computational Physics course.
+Project for Augusta University Spring 2023 Computational Physics course.
